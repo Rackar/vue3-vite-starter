@@ -84,6 +84,7 @@ module.exports = {
         endOfLine: 'auto',
         printWidth: 80,
         arrowParens: 'avoid',
+        tabWidth: 2,
       },
     ],
   },
